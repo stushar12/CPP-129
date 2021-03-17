@@ -4,7 +4,7 @@ Minimum swaps and k together
 
 
 
-Idea is to use sliding window technique
+Idea:  Use sliding window technique
 
 
 
